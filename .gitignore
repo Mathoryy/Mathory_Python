@@ -172,3 +172,9 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# DB설정 올리지 않기
+config.py
+
+# 데이터파일 올리지 않기(넘 무거움)
+/수학 과목 문제생성 데이터

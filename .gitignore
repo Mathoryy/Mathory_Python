@@ -177,4 +177,8 @@ cython_debug/
 config.py
 
 # 데이터파일 올리지 않기(넘 무거움)
-/수학 과목 문제생성 데이터
+수학\ 과목\ 문제생성\ 데이터/
+
+#에러로그 넘기지 않기
+error_log_problems.txt
+error_log_answers.txt
